@@ -1,9 +1,10 @@
 #Greenfoot project file
-editor.fx.0.height=0
-editor.fx.0.width=0
+class.EuropeMap.image=map.jpg
+editor.fx.0.height=959
+editor.fx.0.width=1680
 editor.fx.0.x=0
-editor.fx.0.y=0
-height=585
+editor.fx.0.y=23
+height=959
 package.numDependencies=0
 package.numTargets=5
 project.charset=UTF-8
@@ -56,6 +57,7 @@ target5.width=90
 target5.x=0
 target5.y=0
 version=3.0.0
-width=825
-xPosition=549
-yPosition=196
+width=1680
+world.lastInstantiated=EuropeMap
+xPosition=0
+yPosition=23
